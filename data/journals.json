@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1764671824537",
+    "createdAt": "2025-12-02T10:37:04.537Z",
+    "title": "School",
+    "type": "journal",
+    "entries": [
+      {
+        "id": "1764688571194",
+        "date": "2025-12-02T15:16:11.194Z",
+        "content": "I had a presentation today\n\n\nTomorrow I want to...  read for my exams",
+        "wordCount": 13
+      }
+    ]
+  },
+  {
+    "id": "1764679214969",
+    "createdAt": "2025-12-02T12:40:14.969Z",
+    "title": "Project",
+    "type": "todo",
+    "todos": [
+      {
+        "id": "1764679226282",
+        "task": "create a landing page",
+        "completed": true,
+        "createdAt": "2025-12-02T12:40:26.282Z"
+      },
+      {
+        "id": "1764688604496",
+        "task": "create a journal page",
+        "completed": true,
+        "createdAt": "2025-12-02T15:16:44.496Z"
+      }
+    ],
+    "updatedAt": "2025-12-02T15:16:50.891Z"
+  }
+]
